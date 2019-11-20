@@ -1,7 +1,7 @@
 package com.company.adapter;
 
 /**
- * ����������  ----> ���ж���
+ * 对象适配
  * @author YuanZhiWu
  *
  */
