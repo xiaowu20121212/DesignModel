@@ -5,4 +5,6 @@ package com.company.proxy;
  */
 public interface Subject {
     public void doSomething(String str);
+    void eat();
+    void run();
 }
